@@ -11,4 +11,7 @@
     <h1>Hello world</h1>
 
 </body>
+<footer>
+    &copy; <?php echo date('Y'); ?> The spectacular me
+</footer>
 </html>
